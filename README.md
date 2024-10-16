@@ -25,7 +25,7 @@ Este projeto utiliza as seguintes linguagens de programação e tecnologias:
 - **Link**: [Site Oficial do PostgreSQL](https://www.postgresql.org/)
 
 ## 4. JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 - **Descrição**: Linguagem de programação de alto nível, frequentemente utilizada para criar interatividade em páginas web. É essencial para o desenvolvimento frontend.
 - **Link**: [Site Oficial do JavaScript](https://www.javascript.com/)
 
