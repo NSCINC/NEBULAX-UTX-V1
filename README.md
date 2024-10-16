@@ -6,7 +6,7 @@
 Nebula X UTX é um projeto inovador que visa criar uma plataforma robusta para transações baseadas em UTXO (Unspent Transaction Output). Com foco em segurança, escalabilidade e facilidade de uso, Nebula X UTX permite que desenvolvedores e usuários finais interajam com uma rede descentralizada de forma eficiente.
 
 ## Tecnologias Utilizadas
-# Linguagens Utilizadas no Nebula X UTX
+### Linguagens Utilizadas no Nebula X UTX
 
 Este projeto utiliza as seguintes linguagens de programação e tecnologias:
 
@@ -74,7 +74,6 @@ Este projeto utiliza as seguintes linguagens de programação e tecnologias:
 ![ABC](https://upload.wikimedia.org/wikipedia/commons/b/b3/ABC_logo.png) <!-- Verifique se a imagem está disponível -->
 - **Descrição**: Linguagem de programação projetada para ser simples e fácil de aprender, frequentemente usada para fins educacionais.
 - **Link**: [Site Oficial do ABC](https://en.wikipedia.org/wiki/ABC_(programming_language)) <!-- Substitua com o link correto -->
-
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![Flask](https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png) ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql.png)
 
@@ -161,9 +160,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 ## Licença
 
 Este projeto é licenciado sob a [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver perguntas ou sugestões, sinta-se à vontade para entrar em contato.
-```
 
