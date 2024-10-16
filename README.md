@@ -1,7 +1,6 @@
 
-# Nebula X UTX
+# Nebula X UTX 
 
-![Nebula](https://upload.wikimedia.org/wikipedia/commons/0/04/Nebula_Logo.png) ![UTX](https://upload.wikimedia.org/wikipedia/commons/a/a1/UTX_logo.png)
 
 Nebula X UTX é um projeto inovador que visa criar uma plataforma robusta para transações baseadas em UTXO (Unspent Transaction Output). Com foco em segurança, escalabilidade e facilidade de uso, Nebula X UTX permite que desenvolvedores e usuários finais interajam com uma rede descentralizada de forma eficiente.
 
